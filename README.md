@@ -1,4 +1,4 @@
-# [自我介绍()](https://github.com/flechazo-garcia/blog-test/blob/master/README.md)
+# [自我介绍](https://github.com/flechazo-garcia/blog-test/blob/master/README.md)
 我是Flechazo，来自于宜兴，宜兴四大特点：
 * 陶的古都![陶的古都](4.jpg)
 * 洞的世界![洞的世界](1.jpg)
